@@ -27,7 +27,7 @@ Before diving into the magical world of virtual relationships, make sure you hav
 
 ## Installation Steps
 
-1. **Install Node.js:**
+1. **Install Node.js :**
 
    - Download and install Node.js from [Node.js (nodejs.org)](https://nodejs.org/en) 🌐.
 2. **Install Dependencies:**
