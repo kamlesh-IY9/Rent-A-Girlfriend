@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./Guest/Home";
 import NewHome from "./Home/NewHome";
 import Profile from "./Home/Profile";
-
+           
 const App = () => {
   const token = window.localStorage.getItem("token");
 
